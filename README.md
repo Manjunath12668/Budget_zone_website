@@ -2,7 +2,7 @@
 
 Welcome to **The Budget Zone**, a modern, interactive restaurant website designed to deliver an engaging user experience with smooth scrolling, interactive menus, animated content, and a sleek UI.
 
-## 🌟 Features
+##  Features
 
 - 🏠 **Homepage with Image Slider**  
   Auto-playing image slider showcasing the ambiance and dishes.
@@ -22,12 +22,11 @@ Welcome to **The Budget Zone**, a modern, interactive restaurant website designe
 - 🛵 **Services Section**  
   Highlights of services like delivery and healthy food.
 
-- 💬 **Contact & Reservation Buttons**
+-  **Contact & Reservation Buttons**
 
 - ✨ **Animations on Scroll**  
   Smooth content fade-in and slide-in using Intersection Observer.
 
-- 🎯 **Mobile-Friendly & Responsive**
 
 ## 📁 Folder Structure
 
